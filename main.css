@@ -37,6 +37,14 @@ th, td {
     padding: 16px;
 }
 
+.text-lightblue {
+    color: #78a1cb;
+}
+
+.text-grey {
+    color: #a0a0a0;
+}
+
 .text-red {
     color: rgb(146, 0, 0);
 }

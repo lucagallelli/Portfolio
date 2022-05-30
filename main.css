@@ -41,7 +41,7 @@ th, td {
 .text-lightblue {
     color: #78a1cb;
 }
-
+/*  Lightblue is for links that havent been clicked on */
 .text-grey {
     color: #a0a0a0;
 }
@@ -49,6 +49,7 @@ th, td {
 .text-red {
     color: rgb(146, 0, 0);
 }
+/* Red is for useful or imporant information such as directing you to the repository */
 
 .h1-18ptBold {
     text-align: center;

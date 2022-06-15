@@ -110,3 +110,7 @@ th, td {
     clear: both;
     display: table;
   }
+
+  .center-text {
+    text-align: center;
+  }
